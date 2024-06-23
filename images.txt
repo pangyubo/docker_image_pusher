@@ -1,3 +1,1 @@
---platform=linux/arm/v7 deluan/navidrome:0.52.0
---platform=linux/arm/v7 rustdesk/rustdesk-server:latest
---platform=linux/arm/v7 tickstep/aliyunpan-sync:v0.3.2
+--platform=linux/arm/v7 jeessy/ddns-go
