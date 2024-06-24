@@ -1,1 +1,1 @@
---platform=linux/arm/v7 linuxserver/heimdall
+--platform=linux/arm64 jc21/nginx-proxy-manager
