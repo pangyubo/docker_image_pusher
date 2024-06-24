@@ -1,1 +1,1 @@
---platform=linux/arm/v7 kahosan/home-page
+--platform=linux/arm/v7 linuxserver/heimdall
