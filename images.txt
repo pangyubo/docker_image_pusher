@@ -1,1 +1,1 @@
---platform=linux/arm64 jc21/nginx-proxy-manager
+--platform=linux/arm/v6 homeassistant/home-assistant:2023.8.0.dev20230711
