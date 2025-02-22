@@ -1,1 +1,1 @@
---platform=linux/arm/v6 youshandefeiyang/allinone:latest
+ youshandefeiyang/allinone:latest
